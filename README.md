@@ -1,4 +1,4 @@
-# 🚗 EstacioneIoT
+# EstacioneIoT
 
 ## 📌 Sobre o Projeto
 
