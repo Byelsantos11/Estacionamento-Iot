@@ -127,21 +127,6 @@ http://localhost:8080
 ```text
 http://localhost:5500
 ```
-
----
-
-## ⚙️ Variáveis de Ambiente
-
-Configure as seguintes propriedades no arquivo `application.properties`:
-
-```properties
-server.port=8080
-
-mqtt.broker=tcp://localhost:1883
-mqtt.client.id=estacioneiot-backend
-mqtt.topic=estacionamento/vagas
-```
-
 ---
 
 ## 👤 Usuários para Teste
